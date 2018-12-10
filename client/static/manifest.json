@@ -1,0 +1,7 @@
+{
+  "name": "Rallye",
+  "short_name": "Rallye",
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "982815341544"
+}
